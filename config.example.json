@@ -1,0 +1,6 @@
+{
+  "base_url": "https://YOUR_PROVIDER.example/v1",
+  "model": "YOUR_MODEL_ID",
+  "api_key_env": "PROMETHEUS_API_KEY",
+  "timeout_seconds": 45
+}
